@@ -8,6 +8,6 @@ Operating:
 2) Send SIGINT (Ctrl-c) for exiting the game;
 
 Future improvements:
-1) Solve the problem with operating the snake (probably with termios functions)
+1) Solve the problem with operating the snake (probably with termios functions);
 2) Add some features like randomly emerging food and snake growth, walls on the game field, the possibility to cut off snake's tail when knotted;
-3) In the end, turrn structures into classes and recode with C++;
+3) In the end, turn structures into classes and recode with C++;
