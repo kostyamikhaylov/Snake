@@ -2,6 +2,7 @@
 console game
 
 Simple console game for Linux
+
 Operating:
 1) Send SIGQUIT (Ctrl-4) for the snake to turn right (according to the current direction);
 2) Send SIGINT (Ctrl-c) for exiting the game;
